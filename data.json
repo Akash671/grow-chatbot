@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "sample_1",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_2",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_3",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_4",
+    "problem": "Can I export my data from the app?",
+    "solution": "Go to Account Settings > Data Management and select 'Export Data.'"
+  },
+  {
+    "id": "sample_5",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_6",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_7",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_8",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_9",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_10",
+    "problem": "Is my personal data safe on GROW?",
+    "solution": "GROW uses industry-standard encryption and security practices. See our Privacy Policy for details."
+  },
+  {
+    "id": "sample_11",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_12",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_13",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_14",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_15",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_16",
+    "problem": "How do I change my email address?",
+    "solution": "Go to Account Settings > Personal Info and update your email. Confirm via the verification link."
+  },
+  {
+    "id": "sample_17",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_18",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_19",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_20",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_21",
+    "problem": "The app crashes every time I open it.",
+    "solution": "Restart your device and update the app. If it continues, reinstall or contact support."
+  },
+  {
+    "id": "sample_22",
+    "problem": "The app crashes every time I open it.",
+    "solution": "Restart your device and update the app. If it continues, reinstall or contact support."
+  },
+  {
+    "id": "sample_23",
+    "problem": "My payment failed while upgrading my plan.",
+    "solution": "Verify your card details and balance. Try another payment method or contact support."
+  },
+  {
+    "id": "sample_24",
+    "problem": "App is logging me out automatically.",
+    "solution": "Update the app and check for device security settings."
+  },
+  {
+    "id": "sample_25",
+    "problem": "Can you add a dark mode feature?",
+    "solution": "Thank you for your suggestion! We have forwarded it to our product team."
+  },
+  {
+    "id": "sample_26",
+    "problem": "Can you add a dark mode feature?",
+    "solution": "Thank you for your suggestion! We have forwarded it to our product team."
+  },
+  {
+    "id": "sample_27",
+    "problem": "I can't find my transaction history.",
+    "solution": "Go to Account > Transactions to view your history."
+  },
+  {
+    "id": "sample_28",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_29",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_30",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_31",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_32",
+    "problem": "App is not loading content.",
+    "solution": "Check your internet connection and restart the app."
+  },
+  {
+    "id": "sample_33",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_34",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_35",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_36",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_37",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_38",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_39",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_40",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_41",
+    "problem": "App is logging me out automatically.",
+    "solution": "Update the app and check for device security settings."
+  },
+  {
+    "id": "sample_42",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_43",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_44",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_45",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_46",
+    "problem": "How do I turn on dark mode?",
+    "solution": "Go to Settings > Appearance and select 'Dark Mode.'"
+  },
+  {
+    "id": "sample_47",
+    "problem": "Is my personal data safe on GROW?",
+    "solution": "GROW uses industry-standard encryption and security practices. See our Privacy Policy for details."
+  },
+  {
+    "id": "sample_48",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_49",
+    "problem": "Subscription renewal failed.",
+    "solution": "Check payment method and balance. Try again or contact support."
+  },
+  {
+    "id": "sample_50",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_51",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_52",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_53",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_54",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_55",
+    "problem": "Can't reset my PIN.",
+    "solution": "Go to Security Settings and follow the steps to reset your PIN."
+  },
+  {
+    "id": "sample_56",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_57",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_58",
+    "problem": "App is not loading content.",
+    "solution": "Check your internet connection and restart the app."
+  },
+  {
+    "id": "sample_59",
+    "problem": "How do I turn on dark mode?",
+    "solution": "Go to Settings > Appearance and select 'Dark Mode.'"
+  },
+  {
+    "id": "sample_60",
+    "problem": "Subscription renewal failed.",
+    "solution": "Check payment method and balance. Try again or contact support."
+  },
+  {
+    "id": "sample_61",
+    "problem": "My payment failed while upgrading my plan.",
+    "solution": "Verify your card details and balance. Try another payment method or contact support."
+  },
+  {
+    "id": "sample_62",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_63",
+    "problem": "Can you add a dark mode feature?",
+    "solution": "Thank you for your suggestion! We have forwarded it to our product team."
+  },
+  {
+    "id": "sample_64",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_65",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_66",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_67",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_68",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_69",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_70",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_71",
+    "problem": "How do I change my email address?",
+    "solution": "Go to Account Settings > Personal Info and update your email. Confirm via the verification link."
+  },
+  {
+    "id": "sample_72",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_73",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_74",
+    "problem": "How do I enable biometric login?",
+    "solution": "Go to Account Settings > Security and enable biometric login if your device supports it."
+  },
+  {
+    "id": "sample_75",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_76",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_77",
+    "problem": "How do I change my email address?",
+    "solution": "Go to Account Settings > Personal Info and update your email. Confirm via the verification link."
+  },
+  {
+    "id": "sample_78",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_79",
+    "problem": "Is my personal data safe on GROW?",
+    "solution": "GROW uses industry-standard encryption and security practices. See our Privacy Policy for details."
+  },
+  {
+    "id": "sample_80",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_81",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_82",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_83",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_84",
+    "problem": "Can't reset my PIN.",
+    "solution": "Go to Security Settings and follow the steps to reset your PIN."
+  },
+  {
+    "id": "sample_85",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_86",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_87",
+    "problem": "App is logging me out automatically.",
+    "solution": "Update the app and check for device security settings."
+  },
+  {
+    "id": "sample_88",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_89",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_90",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_91",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_92",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_93",
+    "problem": "App is not loading content.",
+    "solution": "Check your internet connection and restart the app."
+  },
+  {
+    "id": "sample_94",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_95",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_96",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_97",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_98",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_99",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_100",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_101",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_102",
+    "problem": "Why am I being charged twice?",
+    "solution": "Check your payment history and subscriptions. Contact support with transaction details."
+  },
+  {
+    "id": "sample_103",
+    "problem": "I can't find my transaction history.",
+    "solution": "Go to Account > Transactions to view your history."
+  },
+  {
+    "id": "sample_104",
+    "problem": "Subscription renewal failed.",
+    "solution": "Check payment method and balance. Try again or contact support."
+  },
+  {
+    "id": "sample_105",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_106",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_107",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_108",
+    "problem": "The app crashes every time I open it.",
+    "solution": "Restart your device and update the app. If it continues, reinstall or contact support."
+  },
+  {
+    "id": "sample_109",
+    "problem": "App language is incorrect.",
+    "solution": "Go to Settings > Language and select your preferred language."
+  },
+  {
+    "id": "sample_110",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_111",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_112",
+    "problem": "Can I export my data from the app?",
+    "solution": "Go to Account Settings > Data Management and select 'Export Data.'"
+  },
+  {
+    "id": "sample_113",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_114",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_115",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_116",
+    "problem": "Is my personal data safe on GROW?",
+    "solution": "GROW uses industry-standard encryption and security practices. See our Privacy Policy for details."
+  },
+  {
+    "id": "sample_117",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_118",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_119",
+    "problem": "I can't find my transaction history.",
+    "solution": "Go to Account > Transactions to view your history."
+  },
+  {
+    "id": "sample_120",
+    "problem": "Can't verify my phone number.",
+    "solution": "Ensure your number is correct and you have network coverage. Try again or contact support."
+  },
+  {
+    "id": "sample_121",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_122",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_123",
+    "problem": "Is my personal data safe on GROW?",
+    "solution": "GROW uses industry-standard encryption and security practices. See our Privacy Policy for details."
+  },
+  {
+    "id": "sample_124",
+    "problem": "App is not loading content.",
+    "solution": "Check your internet connection and restart the app."
+  },
+  {
+    "id": "sample_125",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_126",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_127",
+    "problem": "Can I export my data from the app?",
+    "solution": "Go to Account Settings > Data Management and select 'Export Data.'"
+  },
+  {
+    "id": "sample_128",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_129",
+    "problem": "Is my personal data safe on GROW?",
+    "solution": "GROW uses industry-standard encryption and security practices. See our Privacy Policy for details."
+  },
+  {
+    "id": "sample_130",
+    "problem": "How do I turn on dark mode?",
+    "solution": "Go to Settings > Appearance and select 'Dark Mode.'"
+  },
+  {
+    "id": "sample_131",
+    "problem": "Why am I being charged twice?",
+    "solution": "Check your payment history and subscriptions. Contact support with transaction details."
+  },
+  {
+    "id": "sample_132",
+    "problem": "Why am I being charged twice?",
+    "solution": "Check your payment history and subscriptions. Contact support with transaction details."
+  },
+  {
+    "id": "sample_133",
+    "problem": "How do I change my email address?",
+    "solution": "Go to Account Settings > Personal Info and update your email. Confirm via the verification link."
+  },
+  {
+    "id": "sample_134",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_135",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_136",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_137",
+    "problem": "Can I export my data from the app?",
+    "solution": "Go to Account Settings > Data Management and select 'Export Data.'"
+  },
+  {
+    "id": "sample_138",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_139",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_140",
+    "problem": "Can't reset my PIN.",
+    "solution": "Go to Security Settings and follow the steps to reset your PIN."
+  },
+  {
+    "id": "sample_141",
+    "problem": "Can't verify my phone number.",
+    "solution": "Ensure your number is correct and you have network coverage. Try again or contact support."
+  },
+  {
+    "id": "sample_142",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_143",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_144",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_145",
+    "problem": "Can I export my data from the app?",
+    "solution": "Go to Account Settings > Data Management and select 'Export Data.'"
+  },
+  {
+    "id": "sample_146",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_147",
+    "problem": "I can't find my transaction history.",
+    "solution": "Go to Account > Transactions to view your history."
+  },
+  {
+    "id": "sample_148",
+    "problem": "The app is running very slow.",
+    "solution": "Close background apps, check your internet, and update GROW to the latest version."
+  },
+  {
+    "id": "sample_149",
+    "problem": "Why am I being charged twice?",
+    "solution": "Check your payment history and subscriptions. Contact support with transaction details."
+  },
+  {
+    "id": "sample_150",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_151",
+    "problem": "How do I turn on dark mode?",
+    "solution": "Go to Settings > Appearance and select 'Dark Mode.'"
+  },
+  {
+    "id": "sample_152",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_153",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_154",
+    "problem": "Subscription renewal failed.",
+    "solution": "Check payment method and balance. Try again or contact support."
+  },
+  {
+    "id": "sample_155",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_156",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_157",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_158",
+    "problem": "How do I change my email address?",
+    "solution": "Go to Account Settings > Personal Info and update your email. Confirm via the verification link."
+  },
+  {
+    "id": "sample_159",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_160",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_161",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_162",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_163",
+    "problem": "I want to delete my account.",
+    "solution": "Go to Account Settings > Delete Account and follow the prompts. This action is permanent."
+  },
+  {
+    "id": "sample_164",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_165",
+    "problem": "How do I cancel my subscription?",
+    "solution": "Go to Account Settings > Subscription and select 'Cancel Subscription.' Follow the prompts."
+  },
+  {
+    "id": "sample_166",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_167",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_168",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_169",
+    "problem": "Can I export my data from the app?",
+    "solution": "Go to Account Settings > Data Management and select 'Export Data.'"
+  },
+  {
+    "id": "sample_170",
+    "problem": "Can't access premium features.",
+    "solution": "Ensure your subscription is active. If not, renew or contact support."
+  },
+  {
+    "id": "sample_171",
+    "problem": "Can't reset my PIN.",
+    "solution": "Go to Security Settings and follow the steps to reset your PIN."
+  },
+  {
+    "id": "sample_172",
+    "problem": "App is not loading content.",
+    "solution": "Check your internet connection and restart the app."
+  },
+  {
+    "id": "sample_173",
+    "problem": "How do I turn on dark mode?",
+    "solution": "Go to Settings > Appearance and select 'Dark Mode.'"
+  },
+  {
+    "id": "sample_174",
+    "problem": "Can you add a dark mode feature?",
+    "solution": "Thank you for your suggestion! We have forwarded it to our product team."
+  },
+  {
+    "id": "sample_175",
+    "problem": "My profile picture won't upload.",
+    "solution": "Ensure the image meets size/format requirements and check your internet connection."
+  },
+  {
+    "id": "sample_176",
+    "problem": "Can't reset my PIN.",
+    "solution": "Go to Security Settings and follow the steps to reset your PIN."
+  },
+  {
+    "id": "sample_177",
+    "problem": "How do I change my email address?",
+    "solution": "Go to Account Settings > Personal Info and update your email. Confirm via the verification link."
+  },
+  {
+    "id": "sample_178",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  },
+  {
+    "id": "sample_179",
+    "problem": "The app crashes every time I open it.",
+    "solution": "Restart your device and update the app. If it continues, reinstall or contact support."
+  },
+  {
+    "id": "sample_180",
+    "problem": "How do I update my payment method?",
+    "solution": "Go to Account Settings > Payment Methods and add or update your details."
+  },
+  {
+    "id": "sample_181",
+    "problem": "The app crashes every time I open it.",
+    "solution": "Restart your device and update the app. If it continues, reinstall or contact support."
+  },
+  {
+    "id": "sample_182",
+    "problem": "Can't verify my phone number.",
+    "solution": "Ensure your number is correct and you have network coverage. Try again or contact support."
+  },
+  {
+    "id": "sample_183",
+    "problem": "How do I contact customer support?",
+    "solution": "Go to Help & Support in the app and choose 'Contact Us.'"
+  },
+  {
+    "id": "sample_184",
+    "problem": "Why am I getting duplicate notifications?",
+    "solution": "Log out and back in, or reinstall the app. Check for multiple accounts on your device."
+  },
+  {
+    "id": "sample_185",
+    "problem": "How do I enable biometric login?",
+    "solution": "Go to Account Settings > Security and enable biometric login if your device supports it."
+  },
+  {
+    "id": "sample_186",
+    "problem": "I can't log in to my account.",
+    "solution": "Please check your email and password. If you forgot your password, use 'Forgot Password' to reset it."
+  },
+  {
+    "id": "sample_187",
+    "problem": "How do I turn on dark mode?",
+    "solution": "Go to Settings > Appearance and select 'Dark Mode.'"
+  },
+  {
+    "id": "sample_188",
+    "problem": "I forgot my password, how can I reset it?",
+    "solution": "Tap 'Forgot Password' on the login screen and follow the instructions."
+  },
+  {
+    "id": "sample_189",
+    "problem": "How do I enable biometric login?",
+    "solution": "Go to Account Settings > Security and enable biometric login if your device supports it."
+  },
+  {
+    "id": "sample_190",
+    "problem": "App is logging me out automatically.",
+    "solution": "Update the app and check for device security settings."
+  },
+  {
+    "id": "sample_191",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_192",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_193",
+    "problem": "I'm not receiving notifications.",
+    "solution": "Check device notification settings and app preferences. Ensure notifications are enabled."
+  },
+  {
+    "id": "sample_194",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_195",
+    "problem": "Subscription renewal failed.",
+    "solution": "Check payment method and balance. Try again or contact support."
+  },
+  {
+    "id": "sample_196",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_197",
+    "problem": "App is not updating automatically.",
+    "solution": "Check your device's auto-update settings and ensure enough storage space."
+  },
+  {
+    "id": "sample_198",
+    "problem": "Can you add a dark mode feature?",
+    "solution": "Thank you for your suggestion! We have forwarded it to our product team."
+  },
+  {
+    "id": "sample_199",
+    "problem": "My data is not syncing across devices.",
+    "solution": "Log into the same account on all devices and check your internet connection."
+  },
+  {
+    "id": "sample_200",
+    "problem": "The app freezes on the home screen.",
+    "solution": "Restart your device, update the app, or clear the app cache."
+  }
+]
