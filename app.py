@@ -9,8 +9,7 @@ from sentence_transformers import SentenceTransformer
 # --- CONFIGURATION ---
 # Load API key from environment variables for security
 
-GOOGLE_API_KEY="AIzaSyCCUZGKRHx98oCwCg-ahAV8231wLTr_Ers"
-#GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 if not GOOGLE_API_KEY:
     raise ValueError("GOOGLE_API_KEY environment variable not set.")
 
