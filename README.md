@@ -30,3 +30,6 @@ This is a customer support chatbot for the "Grow" app, built using a Retrieval-A
 ```bash
 git clone <your-repository-url>
 cd grow-chatbot
+python -m flask run
+got to http://127.0.0.1:5000/
+start using...
